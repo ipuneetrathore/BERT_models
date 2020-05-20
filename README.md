@@ -1,4 +1,4 @@
-# BERT_models - FinBERT
+# BERT Finetuned Models - FinBERT
 This repository contains fine tuned BERT models.
 
 FinBERT is fine tuned on a pre trained BERT-BASE-CASED model. It let's you run sentiment classification [Positive, Negative and Neutral] on finance domain data.
