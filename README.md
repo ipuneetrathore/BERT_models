@@ -5,5 +5,5 @@ FinBERT is fine tuned on a pre trained BERT-BASE-CASED model. It let's you run s
 
 All the required steps to use this model are given in - [Running finBERT - How To.ipynb](https://github.com/ipuneetrathore/BERT_models/blob/master/Running%20finBERT%20-%20How%20To.ipynb) 
 
-Model is available at- https://huggingface.co/ipuneetrathore/bert-base-cased-finetuned-finBERT
+Model is available at - https://huggingface.co/ipuneetrathore/bert-base-cased-finetuned-finBERT
 
